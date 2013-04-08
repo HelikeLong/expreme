@@ -1,0 +1,7 @@
+http://browserdiet.com/pt/
+
+- Comprimir HTML
+- Comprimir CSS
+- Comprimir JS
+- Repensar os Key Selector's
+- Gerar Sprites
